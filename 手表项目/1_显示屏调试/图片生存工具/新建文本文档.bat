@@ -1,0 +1,1 @@
+ffmpeg -i cs.jpg -s 128*64 output.xbm
